@@ -1,4 +1,5 @@
 <?php
+namespace ArunasDilius;
 
 class DataGrid
 {
