@@ -1,0 +1,23 @@
+{
+  "name": "arunasdilius/data-grid",
+  "description": "A table html generator to display model data",
+  "keywords": ["data grid", "model"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Arunas Dilius",
+      "email": "arunas.dilius@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+  },
+  "autoload": {
+    "psr-4": {
+      "ArunasDilius\\DataGrid\\": "src/"
+    },
+    "files": [
+      "src/DataGrid.php"
+    ]
+  }
+}
